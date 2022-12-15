@@ -1,0 +1,7 @@
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"an error from a function"}
+{"level":"error","message":"an error from a functionError: Error from function"}
+{"level":"error"}
+{"level":"error","message":"an error from a function Error: Error from function"}
